@@ -1,0 +1,1 @@
+_A device that access services made available by servers._

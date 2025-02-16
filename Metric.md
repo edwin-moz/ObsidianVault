@@ -1,0 +1,1 @@
+_A relative value that routers use when they have more than one route to get to another network._

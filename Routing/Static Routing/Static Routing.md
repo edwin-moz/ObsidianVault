@@ -1,0 +1,1 @@
+_A process by which a router uses manually entered [[Static Route]] to forward traffic to other networks._

@@ -1,0 +1,1 @@
+_The basic container for data moving across a network. Generally a frame can be broken down into the [[Header]], [[Payload]] , and the [[Trailer]]. Frames are created at the [[Data Link Layer (Layer 2)]]._

@@ -1,0 +1,1 @@
+_The connection-oriented payload of an IP [[Packet]]. The segment works at the [[Transport Layer (Layer 4)]]._

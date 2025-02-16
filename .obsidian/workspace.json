@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "1388cf0174b49729",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfc4c19ef6c87f6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46a07aa1e56831b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a0b46832cf50b52",
+    "type": "split",
+    "children": [
+      {
+        "id": "4668bec5b2d17071",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7340eb7777b423f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6502a16a5f7fb2fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5b7bbcbca703b2d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "right": {
+    "id": "2c2ab494c72a6870",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ebc4fa7d0ee2724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e27bb87bf50426e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Network Devices.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Network Devices"
+            }
+          },
+          {
+            "id": "a1358b397f40771b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Network Devices.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Network Devices"
+            }
+          },
+          {
+            "id": "4cc1ac40f4c1c438",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e15abeb2259829e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Network Devices.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Network Devices"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "46a07aa1e56831b4",
+  "lastOpenFiles": [
+    "PDU (Physical Data Unit)/PDU (Physical Data Unit).md",
+    "Routing/Routing.md",
+    "Network Device (Appliance)/Router/Router.md",
+    "Routing/Routing Protocols/Routing Protocols.md",
+    "PDU (Physical Data Unit)/TCP Segment/TCP Segment.md",
+    "PDU (Physical Data Unit)/Packet/Packet.md",
+    "PDU (Physical Data Unit)/Frame/Frame.md",
+    "PDU (Physical Data Unit)/Bit/Bit.md",
+    "PDU (Physical Data Unit)/TCP Segment",
+    "PDU (Physical Data Unit)/Frame/Payload/Payload.md",
+    "PDU (Physical Data Unit)/Frame/Trailer",
+    "PDU (Physical Data Unit)/Frame/Payload",
+    "PDU (Physical Data Unit)/Frame/Header",
+    "PDU (Physical Data Unit)/Packet",
+    "OSI Model (Open Systems Interconnection Model)/2 - Data Link Layer/Data Link Layer (Layer 2).md",
+    "PDU (Physical Data Unit)/Frame",
+    "Network Device (Appliance)/Network Device (Appliance).md",
+    "Network Device (Appliance)/Switch/Switch.md",
+    "Network Device (Appliance)/Server/Server.md",
+    "Network Device (Appliance)/Firewall/Firewall.md",
+    "Network Device (Appliance)/Client/Client.md",
+    "QoS (Quality of Service).md",
+    "Metric.md",
+    "JPEG.md",
+    "OSI Model (Open Systems Interconnection Model)/2 - Data Link Layer/Protocols/VTP (VLAN Trunking Protocol).md",
+    "OSI Model (Open Systems Interconnection Model)/2 - Data Link Layer/Protocols/STP (Spanning Tree Protocol)/STP (Spanning Tree Protocol).md",
+    "OSI Model (Open Systems Interconnection Model)/2 - Data Link Layer/Protocols",
+    "OSI Model (Open Systems Interconnection Model)/2 - Data Link Layer/Protocols/STP (Spanning Tree Protocol)",
+    "OSI Model (Open Systems Interconnection Model)/2 - Data Link Layer/Protocols/STP (Spanning Tree Protocol)/MSTP (Multiple Spanning Tree Protocol).md",
+    "Hop.md",
+    "Routing/Static Routing/Static Routing.md",
+    "Routing/Static Routing/Static Route",
+    "Routing/Static Routing/Static Route/Static Route.md",
+    "Object Oriented Programming.md",
+    "Network Device (Appliance)/Server",
+    "Routing/Routing Protocols/Dynamic Routing Protocols/EGP (Exterior Gateway Protocol)/Path Vector Routing Protocol/BGP (Border Gateway Protocol)/✅ BGP (Border Gateway Protocol).md",
+    "Routing Protocols/Untitled.canvas"
+  ]
+}

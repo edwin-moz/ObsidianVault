@@ -1,0 +1,1 @@
+_The primary data that is encapsulated in a [[Frame]]._

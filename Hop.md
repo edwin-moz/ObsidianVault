@@ -1,0 +1,1 @@
+_A network or a router that a packet passes through._

@@ -1,0 +1,1 @@
+_Basic component of communication over a network. It contains source and destination address, data, and control information. It is encapsulated in the [[Payload]]. Packets are created at [[Network Layer (Layer 3)]]._

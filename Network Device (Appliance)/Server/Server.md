@@ -1,0 +1,1 @@
+_A device that provides functions or services for clients._
